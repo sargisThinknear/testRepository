@@ -1,0 +1,12 @@
+#
+# [ Database Configuration Section ]
+#
+
+spring:
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/dev?user=thinknear&password=";
+
+
+#
+# [ Other Configuration Attributes ]
+#
